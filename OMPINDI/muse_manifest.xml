@@ -1,0 +1,99 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="groupe2.com" resolutions="1x" timestamp="1603529662759">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="201038148" ref="education:visite-touristique:enfant:adulte:index:decouvert-local"/>
+    <file name="nomq_preview_master_a-gabarit.css" crc="18214868" ref="education:visite-touristique:enfant:adulte:index:decouvert-local"/>
+    <file name="education.css" crc="25453654" ref="education"/>
+    <file name="visite-touristique.css" crc="3971949616" ref="visite-touristique"/>
+    <file name="enfant.css" crc="3920972784" ref="enfant"/>
+    <file name="adulte.css" crc="4091418711" ref="adulte"/>
+    <file name="index.css" crc="3983694586" ref="index"/>
+    <file name="nomq_index.css" crc="405472692" ref="index"/>
+    <file name="decouvert-local.css" crc="105513441" ref="decouvert-local"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="museutils.js" crc="3939489907" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="whatinput.js" crc="86476730" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="webpro.js" crc="3856315280" ref="enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="enfant:adulte:education:decouvert-local:visite-touristique"/>
+    <file name="touchswipe.js" crc="3888935200" ref="enfant:adulte:education:decouvert-local:visite-touristique"/>
+  </folder>
+  <folder name="images">
+    <file name="screenshot_20201023_114215.png" crc="3782036686" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14.jpg" crc="294934624" ref="enfant:education">
+      <caption webpage="education" alt=""/>
+      <caption webpage="enfant" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3773143342" ref="enfant">
+      <caption webpage="enfant" alt=""/>
+    </file>
+    <file name="10-u1672-fr.jpg" crc="162914983" ref="enfant"/>
+    <file name="11.jpg" crc="4062388746" ref="adulte:decouvert-local:visite-touristique">
+      <caption webpage="adulte" alt=""/>
+    </file>
+    <file name="13.jpg" crc="31190161" ref="adulte:decouvert-local">
+      <caption webpage="adulte" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3817492637" ref="adulte">
+      <caption webpage="adulte" alt=""/>
+    </file>
+    <file name="6-u1447-fr.jpg" crc="434684398" ref="education"/>
+    <file name="5.jpg" crc="344550673" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="contin2.jpg" crc="166351753" ref="education:decouvert-local:visite-touristique">
+      <caption webpage="education" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+    </file>
+    <file name="sans titre-2.png" crc="248999334" ref="education:decouvert-local:visite-touristique">
+      <caption webpage="education" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="decouvert-local" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+      <caption webpage="visite-touristique" alt=""/>
+    </file>
+    <file name="8.jpg" crc="145001993" ref="decouvert-local">
+      <caption webpage="decouvert-local" alt=""/>
+    </file>
+    <file name="7.jpg" crc="388931456" ref="decouvert-local">
+      <caption webpage="decouvert-local" alt=""/>
+    </file>
+    <file name="12-u1595-fr.jpg" crc="28347217" ref="visite-touristique"/>
+    <file name="images.jpg" crc="4112923548" ref="visite-touristique">
+      <caption webpage="visite-touristique" alt=""/>
+    </file>
+    <file name="10-u1597-fr.jpg" crc="4139721773" ref="visite-touristique"/>
+  </folder>
+  <file name="index.html" crc="215942411" seo="true" mt="1603529611732" redirect="true"/>
+  <file name="enfant.html" crc="509589650" seo="true" mt="1603529582596" redirect="true"/>
+  <file name="adulte.html" crc="130984497" seo="true" mt="1603529582465" redirect="true"/>
+  <file name="education.html" crc="3860470493" seo="true" mt="1603529582598" redirect="true"/>
+  <file name="decouvert-local.html" crc="14265663" seo="true" mt="1603529582789" redirect="true"/>
+  <file name="visite-touristique.html" crc="3781537941" seo="true" mt="1603529582275" redirect="true"/>
+</manifest>

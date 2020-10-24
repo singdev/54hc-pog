@@ -1,0 +1,75 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="groupe3.com" resolutions="1x" timestamp="1603522198120">
+  <folder name="css">
+    <file name="site_global.css" crc="107682175"/>
+    <file name="master_a-gabarit.css" crc="4252730928" ref="connexion:inscription:contact:fonctionement:sbf:index:gains"/>
+    <file name="connexion.css" crc="137691827" ref="connexion"/>
+    <file name="inscription.css" crc="301891160" ref="inscription"/>
+    <file name="contact.css" crc="462725358" ref="contact"/>
+    <file name="fonctionement.css" crc="3829421111" ref="fonctionement"/>
+    <file name="sbf.css" crc="3762114134" ref="sbf"/>
+    <file name="index.css" crc="4097882265" ref="index"/>
+    <file name="gains.css" crc="3889435564" ref="gains"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="museutils.js" crc="3939489907" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:fonctionement:gains:inscription"/>
+    <file name="webpro.js" crc="3856315280" ref="index:contact:inscription"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:sbf:fonctionement:gains:contact:connexion:inscription"/>
+    <file name="form_check.php" crc="4108222811" ref="contact"/>
+    <file name="form_throttle.php" crc="503802655" ref="contact"/>
+    <file name="form_process.php" crc="260214869" ref="contact"/>
+    <file name="form-u1053.php" crc="4285086613" ref="contact"/>
+    <file name="form-u776.php" crc="458819984" ref="inscription"/>
+  </folder>
+  <folder name="images">
+    <file name="i2.jpg" crc="4223903642" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i3.jpg" crc="429490001" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i1.jpg" crc="4045213343" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contin2.jpg" crc="166351753" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sans titre-2.png" crc="259798499" ref="fonctionement">
+      <caption webpage="fonctionement" alt=""/>
+      <caption webpage="fonctionement" alt=""/>
+      <caption webpage="fonctionement" alt=""/>
+    </file>
+    <file name="1.jpg" crc="3869252628" ref="gains">
+      <caption webpage="gains" alt=""/>
+    </file>
+    <file name="3.png" crc="15020006" ref="gains">
+      <caption webpage="gains" alt=""/>
+    </file>
+    <file name="5.png" crc="20094764" ref="gains">
+      <caption webpage="gains" alt=""/>
+    </file>
+    <file name="4.png" crc="310883138" ref="gains">
+      <caption webpage="gains" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3758113682" ref="inscription">
+      <caption webpage="inscription" alt=""/>
+    </file>
+    <file name="6.jpg" crc="329085052" ref="inscription">
+      <caption webpage="inscription" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="319218053" seo="true" mt="1603521169742" redirect="true"/>
+  <file name="sbf.html" crc="85213859" seo="true" mt="1603521584431" redirect="true"/>
+  <file name="fonctionement.html" crc="3811631676" seo="true" mt="1603521803315" redirect="true"/>
+  <file name="gains.html" crc="424279781" seo="true" mt="1603522193519" redirect="true"/>
+  <file name="contact.html" crc="4086212432" seo="true" mt="1603521427552" redirect="true"/>
+  <file name="connexion.html" crc="3801427778" seo="true" mt="1603520716413" redirect="true"/>
+  <file name="inscription.html" crc="471108508" seo="true" mt="1603521450844" redirect="true"/>
+</manifest>

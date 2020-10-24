@@ -1,0 +1,82 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="groupe11.com" resolutions="1x" timestamp="1603530106237">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="3858520700" ref="maçon:secteur-d-activiter:contact-ouvrier:formulaire:merci:batiment:paiement:index"/>
+    <file name="ma_on.css" crc="4024750786" ref="maçon"/>
+    <file name="secteur-d-activiter.css" crc="3838732610" ref="secteur-d-activiter"/>
+    <file name="contact-ouvrier.css" crc="100330045" ref="contact-ouvrier"/>
+    <file name="formulaire.css" crc="208134166" ref="formulaire"/>
+    <file name="merci.css" crc="3807229637" ref="merci"/>
+    <file name="batiment.css" crc="258666670" ref="batiment"/>
+    <file name="paiement.css" crc="4054135335" ref="paiement"/>
+    <file name="index.css" crc="509759907" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="upload.php" crc="4034970893" seo="true" mt="1598376435000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="museutils.js" crc="3939489907" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="whatinput.js" crc="86476730" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:maçon:paiement:contact-ouvrier"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="require.js" crc="4177726516" ref="index:formulaire:secteur-d-activiter:batiment:maçon:paiement:contact-ouvrier:merci"/>
+    <file name="webpro.js" crc="3856315280" ref="formulaire:merci"/>
+    <file name="form_check.php" crc="4108222811" ref="formulaire"/>
+    <file name="form_throttle.php" crc="503802655" ref="formulaire"/>
+    <file name="form_process.php" crc="260214869" ref="formulaire"/>
+    <file name="form-u190.php" crc="4043084555" ref="formulaire"/>
+    <file name="form-u790.php" crc="3932205359" ref="merci"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.jpg" crc="296496835" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1-u536-fr.jpg" crc="353752517" ref="maçon"/>
+    <file name="sans titre-3.png" crc="4115106217" ref="maçon">
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+      <caption webpage="maçon" alt=""/>
+    </file>
+    <file name="2.jpg" crc="147337360" ref="maçon">
+      <caption webpage="maçon" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3879129857" ref="maçon">
+      <caption webpage="maçon" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4141479249" ref="maçon">
+      <caption webpage="maçon" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4277290277" ref="paiement">
+      <caption webpage="paiement" alt=""/>
+    </file>
+    <file name="6.jpg" crc="3824698760" ref="paiement">
+      <caption webpage="paiement" alt=""/>
+    </file>
+    <file name="7.jpg" crc="364078914" ref="paiement">
+      <caption webpage="paiement" alt=""/>
+    </file>
+    <file name="8.jpg" crc="7498027" ref="paiement">
+      <caption webpage="paiement" alt=""/>
+    </file>
+    <file name="1.jpg" crc="160790823" ref="contact-ouvrier">
+      <caption webpage="contact-ouvrier" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4135071248" seo="true" mt="1603477651339" redirect="true"/>
+  <file name="formulaire.html" crc="268399620" seo="true" mt="1603472728728" redirect="true"/>
+  <file name="secteur-d-activiter.html" crc="4218863540" seo="true" mt="1603529956299" redirect="true"/>
+  <file name="batiment.html" crc="228100238" seo="true" mt="1603472633661" redirect="true"/>
+  <file name="maçon.html" crc="70310099" seo="true" mt="1603472751582" redirect="true"/>
+  <file name="paiement.html" crc="4293405092" seo="true" mt="1603472751460" redirect="true"/>
+  <file name="contact-ouvrier.html" crc="129377423" seo="true" mt="1603472750960" redirect="true"/>
+  <file name="merci.html" crc="366984423" seo="true" mt="1603472443106" redirect="true"/>
+</manifest>

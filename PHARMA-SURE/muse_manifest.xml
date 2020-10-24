@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pharma-sur.com" resolutions="1x" timestamp="1603524064924">
+  <folder name="css">
+    <file name="site_global.css" crc="487862984"/>
+    <file name="master_a-gabarit.css" crc="3883702095" ref="inflammation-douloureuse:maladie:achat:gripe:nausées-et-les-vomissements:ville-du-gabon:pharmacie-andrea:corona:pharmacie-du-boulevard:fievre:liste-pharmacie:index:pharmacie-centrale:sans-titre---15"/>
+    <file name="inflammation-douloureuse.css" crc="340796973" ref="inflammation-douloureuse"/>
+    <file name="maladie.css" crc="4285257236" ref="maladie"/>
+    <file name="achat.css" crc="85905711" ref="achat"/>
+    <file name="gripe.css" crc="7766374" ref="gripe"/>
+    <file name="naus_es-et-les-vomissements.css" crc="123471356" ref="nausées-et-les-vomissements"/>
+    <file name="ville-du-gabon.css" crc="4147721701" ref="ville-du-gabon"/>
+    <file name="pharmacie-andrea.css" crc="174611241" ref="pharmacie-andrea"/>
+    <file name="corona.css" crc="9608052" ref="corona"/>
+    <file name="pharmacie-du-boulevard.css" crc="4184306760" ref="pharmacie-du-boulevard"/>
+    <file name="fievre.css" crc="97669799" ref="fievre"/>
+    <file name="liste-pharmacie.css" crc="4140924506" ref="liste-pharmacie"/>
+    <file name="index.css" crc="332519083" ref="index"/>
+    <file name="pharmacie-centrale.css" crc="411588147" ref="pharmacie-centrale"/>
+    <file name="sans-titre---15.css" crc="429426954" ref="sans-titre---15"/>
+  </folder>
+  <folder name="assets">
+    <file name="scan-menus.php" crc="402251900" seo="true" mt="1598376435000"/>
+    <file name="upload.php" crc="4034970893" seo="true" mt="1598376435000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="museutils.js" crc="3939489907" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="whatinput.js" crc="86476730" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="require.js" crc="4177726516" ref="index:pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:maladie:gripe:nausées-et-les-vomissements:inflammation-douloureuse:fievre:corona:achat:sans-titre---15:liste-pharmacie:ville-du-gabon"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard:achat:ville-du-gabon"/>
+    <file name="webpro.js" crc="3856315280" ref="achat"/>
+    <file name="form_check.php" crc="4108222811" ref="achat"/>
+    <file name="form_throttle.php" crc="503802655" ref="achat"/>
+    <file name="form_process.php" crc="260214869" ref="achat"/>
+    <file name="form-u1047.php" crc="4036203006" ref="achat"/>
+  </folder>
+  <folder name="images">
+    <file name="2.jpg" crc="212248869" ref="pharmacie-centrale">
+      <caption webpage="pharmacie-centrale" alt=""/>
+    </file>
+    <file name="3.jpg" crc="265330801" ref="pharmacie-centrale:pharmacie-andrea:pharmacie-du-boulevard">
+      <caption webpage="pharmacie-centrale" alt=""/>
+      <caption webpage="pharmacie-andrea" alt=""/>
+      <caption webpage="pharmacie-du-boulevard" alt=""/>
+    </file>
+    <file name="4.jpg" crc="502681570" ref="pharmacie-centrale">
+      <caption webpage="pharmacie-centrale" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4165165812" ref="pharmacie-andrea">
+      <caption webpage="pharmacie-andrea" alt=""/>
+    </file>
+    <file name="5.jpg" crc="301496507" ref="pharmacie-andrea:pharmacie-du-boulevard">
+      <caption webpage="pharmacie-andrea" alt=""/>
+      <caption webpage="pharmacie-du-boulevard" alt=""/>
+    </file>
+    <file name="7.jpg" crc="180847833" ref="pharmacie-du-boulevard">
+      <caption webpage="pharmacie-du-boulevard" alt=""/>
+    </file>
+    <file name="sans titre-1.jpg" crc="105233008" ref="achat">
+      <caption webpage="achat" alt=""/>
+    </file>
+    <file name="1.jpg" crc="307210575" ref="ville-du-gabon">
+      <caption webpage="ville-du-gabon" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3868530295" seo="true" mt="1603524008936" redirect="true"/>
+  <file name="pharmacie-centrale.html" crc="42027009" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="pharmacie-andrea.html" crc="189807966" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="pharmacie-du-boulevard.html" crc="434291787" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="maladie.html" crc="4225885248" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="gripe.html" crc="3760782056" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="nausées-et-les-vomissements.html" crc="260988788" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="inflammation-douloureuse.html" crc="3974275215" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="fievre.html" crc="22943861" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="corona.html" crc="162319232" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="achat.html" crc="3859642610" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="sans-titre---15.html" crc="447106978" seo="true" mt="1603523354172" redirect="true"/>
+  <file name="liste-pharmacie.html" crc="4065454200" seo="true" mt="1603523439457" redirect="true"/>
+  <file name="ville-du-gabon.html" crc="4209591489" seo="true" mt="1603523922088" redirect="true"/>
+</manifest>

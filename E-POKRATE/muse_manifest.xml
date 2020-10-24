@@ -1,0 +1,109 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="GROUPE4.COM" resolutions="1x" timestamp="1603529735927">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="particulier.css" crc="201527209" ref="particulier"/>
+    <file name="paiement-en-ligne.css" crc="390657339" ref="paiement-en-ligne"/>
+    <file name="a2.css" crc="4010872848" ref="a2"/>
+    <file name="rdv.css" crc="3779425467" ref="rdv"/>
+    <file name="a4.css" crc="3977646789" ref="a4"/>
+    <file name="index.css" crc="211100794" ref="index"/>
+    <file name="assistance.css" crc="4262773059" ref="assistance"/>
+    <file name="a3.css" crc="401991135" ref="a3"/>
+    <file name="a1.css" crc="355689408" ref="a1"/>
+    <file name="choix-du-medecin.css" crc="247284455" ref="choix-du-medecin"/>
+    <file name="nos-service.css" crc="453369302" ref="nos-service"/>
+    <file name="b4.css" crc="22918903" ref="b4"/>
+    <file name="professionel.css" crc="356627478" ref="professionel"/>
+    <file name="b3.css" crc="279785360" ref="b3"/>
+    <file name="b2.css" crc="118691481" ref="b2"/>
+    <file name="livreson.css" crc="226459445" ref="livreson"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+    <file name="museutils.js" crc="3939489907" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+    <file name="require.js" crc="4177726516" ref="index:nos-service:choix-du-medecin:paiement-en-ligne:a1:a2:a3:a4:b2:b3:b4:professionel:particulier:rdv:livreson:assistance"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="180947620" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="342907320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="4030525320" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4251976811" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contin2.jpg" crc="166351753" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="32.jpg" crc="67485123" ref="nos-service">
+      <caption webpage="nos-service" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4019536840" ref="choix-du-medecin">
+      <caption webpage="choix-du-medecin" alt=""/>
+    </file>
+    <file name="6.jpg" crc="43959440" ref="paiement-en-ligne">
+      <caption webpage="paiement-en-ligne" alt=""/>
+    </file>
+    <file name="2- que souhaitez vous faire.jpg" crc="4126016075" ref="a1">
+      <caption webpage="a1" alt=""/>
+    </file>
+    <file name="3- consultation en attente.jpg" crc="4186220307" ref="a2">
+      <caption webpage="a2" alt=""/>
+    </file>
+    <file name="4 consultation en ligne.jpg" crc="241585986" ref="a3">
+      <caption webpage="a3" alt=""/>
+    </file>
+    <file name="remplissage et envoi ordonnace.jpg" crc="4113086754" ref="a4">
+      <caption webpage="a4" alt=""/>
+    </file>
+    <file name="3- rdv en attente-2.jpg" crc="4271207273" ref="b2">
+      <caption webpage="b2" alt=""/>
+    </file>
+    <file name="4- dossier medical.jpg" crc="4139754401" ref="b3">
+      <caption webpage="b3" alt=""/>
+    </file>
+    <file name="5 prescription medical et fin parcour.jpg" crc="13042156" ref="b4">
+      <caption webpage="b4" alt=""/>
+    </file>
+    <file name="42.jpg" crc="168693387" ref="professionel:particulier">
+      <caption webpage="professionel" alt=""/>
+      <caption webpage="particulier" alt=""/>
+    </file>
+    <file name="3- choisissez le jour et l-heure du rdv.jpg" crc="3775056587" ref="rdv:assistance">
+      <caption webpage="assistance" alt=""/>
+      <caption webpage="rdv" alt=""/>
+    </file>
+    <file name="3 - consulter mon ordonnance.jpg" crc="141511868" ref="livreson">
+      <caption webpage="livreson" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3854652048" seo="true" mt="1603529732891" redirect="true"/>
+  <file name="nos-service.html" crc="4099317376" seo="true" mt="1603526372325" redirect="true"/>
+  <file name="choix-du-medecin.html" crc="3888689929" seo="true" mt="1603492245028" redirect="true"/>
+  <file name="paiement-en-ligne.html" crc="3811570486" seo="true" mt="1603526083024" redirect="true"/>
+  <file name="a1.html" crc="161963646" seo="true" mt="1603526057676" redirect="true"/>
+  <file name="a2.html" crc="114031767" seo="true" mt="1603517188340" redirect="true"/>
+  <file name="a3.html" crc="335915059" seo="true" mt="1603517260390" redirect="true"/>
+  <file name="a4.html" crc="209505891" seo="true" mt="1603526073300" redirect="true"/>
+  <file name="b2.html" crc="3955668912" seo="true" mt="1603517351016" redirect="true"/>
+  <file name="b3.html" crc="499262891" seo="true" mt="1603517392982" redirect="true"/>
+  <file name="b4.html" crc="2461638" seo="true" mt="1603517763238" redirect="true"/>
+  <file name="professionel.html" crc="3799628565" seo="true" mt="1603525886591" redirect="true"/>
+  <file name="particulier.html" crc="203439159" seo="true" mt="1603525846389" redirect="true"/>
+  <file name="rdv.html" crc="4232932158" seo="true" mt="1603526440471" redirect="true"/>
+  <file name="livreson.html" crc="3923246459" seo="true" mt="1603526560855" redirect="true"/>
+  <file name="assistance.html" crc="254871281" seo="true" mt="1603526708689" redirect="true"/>
+</manifest>

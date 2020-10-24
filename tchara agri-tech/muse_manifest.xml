@@ -1,0 +1,60 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Groupe9.com" resolutions="1x" timestamp="1603530553316">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-gabarit.css" crc="532005768" ref="agro-météo:plantation:mon-espace:formulaire:inscrition:non-produit:conseile-agricol:index"/>
+    <file name="agro-m_t_o.css" crc="35726136" ref="agro-météo"/>
+    <file name="plantation.css" crc="316876483" ref="plantation"/>
+    <file name="mon-espace.css" crc="4053199810" ref="mon-espace"/>
+    <file name="formulaire.css" crc="500922005" ref="formulaire"/>
+    <file name="inscrition.css" crc="4124099751" ref="inscrition"/>
+    <file name="non-produit.css" crc="4132388425" ref="non-produit"/>
+    <file name="conseile-agricol.css" crc="3936906480" ref="conseile-agricol"/>
+    <file name="index.css" crc="3975235378" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="museutils.js" crc="3939489907" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="whatinput.js" crc="86476730" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:mon-espace:agro-météo:formulaire:non-produit"/>
+    <file name="require.js" crc="4177726516" ref="index:conseile-agricol:inscrition:mon-espace:agro-météo:formulaire:non-produit:plantation"/>
+    <file name="webpro.js" crc="3856315280" ref="formulaire"/>
+    <file name="form_check.php" crc="4108222811" ref="formulaire"/>
+    <file name="form_throttle.php" crc="503802655" ref="formulaire"/>
+    <file name="form_process.php" crc="260214869" ref="formulaire"/>
+    <file name="form-u345.php" crc="149382527" ref="formulaire"/>
+  </folder>
+  <folder name="images">
+    <file name="1.jpg" crc="464486204" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="326808169" ref="mon-espace:non-produit">
+      <caption webpage="non-produit" alt=""/>
+      <caption webpage="mon-espace" alt=""/>
+    </file>
+    <file name="2.jpg" crc="441613776" ref="agro-météo">
+      <caption webpage="agro-météo" alt=""/>
+    </file>
+    <file name="3.jpg" crc="3804302455" ref="formulaire">
+      <caption webpage="formulaire" alt=""/>
+    </file>
+    <file name="5.jpg" crc="51696294" ref="non-produit">
+      <caption webpage="non-produit" alt=""/>
+    </file>
+    <file name="6.jpg" crc="224438543" ref="non-produit">
+      <caption webpage="non-produit" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4226008347" ref="non-produit">
+      <caption webpage="non-produit" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4290274756" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="conseile-agricol.html" crc="3842205189" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="inscrition.html" crc="3827681447" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="mon-espace.html" crc="3839727943" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="agro-météo.html" crc="353103229" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="formulaire.html" crc="3896702524" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="non-produit.html" crc="429212358" seo="true" mt="1603530514615" redirect="true"/>
+  <file name="plantation.html" crc="180440759" seo="true" mt="1603530514615" redirect="true"/>
+</manifest>
